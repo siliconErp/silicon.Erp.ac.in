@@ -1,0 +1,8 @@
+body {
+    background-image: url('result.png');
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-attachment: fixed;
+    background-size: 377px;
+    padding: 0; 
+}
